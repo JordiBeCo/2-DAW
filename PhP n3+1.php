@@ -58,6 +58,7 @@
         if($n > $maxNum){$maxNum=$n;}
         
     } while ($n != 1);
+   //PINTEM EL RESULTAT
     
     echo("La sequencia del $numero_txt és {");
     foreach ($n3 as $value) {
